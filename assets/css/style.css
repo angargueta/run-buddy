@@ -250,3 +250,17 @@ section {
     color: #fce138;
 }
 /* REACH OUT STYLES END */
+
+/* homepage hero */
+.hero {
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+  }
+  
+  /* secondary page hero */
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
