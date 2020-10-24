@@ -335,13 +335,25 @@ section {
     color: blue;
   }
   
-  /* secondary page hero */
-  .hero-secondary {
+/* secondary page hero */
+.hero-secondary {
     background-color: black;
     color: red;
-  }
+}
 
+/* container grid */
 
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
 
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
